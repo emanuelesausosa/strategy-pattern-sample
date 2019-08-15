@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Sosa\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Sosa\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_DuckApp.-783524665.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Sosa\RiderProjects\DuckApp" t="IncludeFlat">
+      <e p="DuckApp.Console" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Domain" t="Include">
+          <e p="Duck.cs" t="Include" />
+          <e p="MallardDuck.cs" t="Include" />
+        </e>
+        <e p="DuckApp.Console.csproj" t="IncludeRecursive" />
+        <e p="Interfaces" t="Include">
+          <e p="FlyBehavior.cs" t="Include" />
+          <e p="QuackBehavior.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="FlyNoWay.cs" t="Include" />
+          <e p="FlyWithWings.cs" t="Include" />
+          <e p="MuteQuack.cs" t="Include" />
+          <e p="Quack.cs" t="Include" />
+          <e p="Squack.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="DuckApp.Console.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="DuckApp.sln" t="IncludeFlat" />
+      <e p="Interfaces" t="Include" />
+      <e p="Models" t="Include" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

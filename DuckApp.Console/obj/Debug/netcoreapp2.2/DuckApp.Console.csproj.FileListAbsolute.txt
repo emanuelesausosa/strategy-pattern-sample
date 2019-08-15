@@ -1,0 +1,11 @@
+C:\Users\Sosa\RiderProjects\DuckApp\DuckApp.Console\obj\Debug\netcoreapp2.2\DuckApp.Console.csprojAssemblyReference.cache
+C:\Users\Sosa\RiderProjects\DuckApp\DuckApp.Console\obj\Debug\netcoreapp2.2\DuckApp.Console.csproj.CoreCompileInputs.cache
+C:\Users\Sosa\RiderProjects\DuckApp\DuckApp.Console\obj\Debug\netcoreapp2.2\DuckApp.Console.AssemblyInfoInputs.cache
+C:\Users\Sosa\RiderProjects\DuckApp\DuckApp.Console\obj\Debug\netcoreapp2.2\DuckApp.Console.AssemblyInfo.cs
+C:\Users\Sosa\RiderProjects\DuckApp\DuckApp.Console\bin\Debug\netcoreapp2.2\DuckApp.Console.deps.json
+C:\Users\Sosa\RiderProjects\DuckApp\DuckApp.Console\bin\Debug\netcoreapp2.2\DuckApp.Console.runtimeconfig.json
+C:\Users\Sosa\RiderProjects\DuckApp\DuckApp.Console\bin\Debug\netcoreapp2.2\DuckApp.Console.runtimeconfig.dev.json
+C:\Users\Sosa\RiderProjects\DuckApp\DuckApp.Console\bin\Debug\netcoreapp2.2\DuckApp.Console.dll
+C:\Users\Sosa\RiderProjects\DuckApp\DuckApp.Console\bin\Debug\netcoreapp2.2\DuckApp.Console.pdb
+C:\Users\Sosa\RiderProjects\DuckApp\DuckApp.Console\obj\Debug\netcoreapp2.2\DuckApp.Console.dll
+C:\Users\Sosa\RiderProjects\DuckApp\DuckApp.Console\obj\Debug\netcoreapp2.2\DuckApp.Console.pdb

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuckApp.Console", "DuckApp.Console\DuckApp.Console.csproj", "{13D06D4C-7D64-4CC7-AA29-27F1F4DF2671}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{8E7EEFF5-93ED-4ADB-AE2B-196C07D09D1E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Interfaces", "Interfaces", "{A3DA3868-92E8-409C-A51F-0217F6D46A46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13D06D4C-7D64-4CC7-AA29-27F1F4DF2671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13D06D4C-7D64-4CC7-AA29-27F1F4DF2671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13D06D4C-7D64-4CC7-AA29-27F1F4DF2671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13D06D4C-7D64-4CC7-AA29-27F1F4DF2671}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
